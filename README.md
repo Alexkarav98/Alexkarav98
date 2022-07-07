@@ -1,8 +1,8 @@
-<h1 align="center">Hi there, I'm <a href="https://daniilshat.ru/" target="_blank">Daniil</a> 
+<h1 align="center">Hi there, I'm Alexander</a> 
 <img src="https://github.com/blackcater/blackcater/raw/main/images/Hi.gif" height="32"/></h1>
 <h3 align="center">AQA engineer from russia 🇷🇺</h3>
+<h4 aligh="center"Here you can check some of my pet projects</h4> 
 
-[![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=DenverCoder
 
 Here are some ideas to get you started:
 
